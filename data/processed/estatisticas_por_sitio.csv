@@ -1,0 +1,5 @@
+Tipo_Sensor,Variavel,N,Mediana,Q1,Q3,IQR,Min,Max
+Conjunto TB,RH,48882,61.3,48.2,76.3,28.1,16.1,97
+Conjunto TB,Temp,48882,26.5,24.4,29.1,4.7,17,39.8
+Conjunto TPO,RH,16919,62,47.8,78.4,30.6,21.4,97.9
+Conjunto TPO,Temp,16919,26.1,24,28.5,4.5,18.6,34.6
